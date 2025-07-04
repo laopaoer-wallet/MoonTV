@@ -76,6 +76,34 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "lajiao": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒资源"
+    },
+    "zy91": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91资源"
+    },
+    "huawei": {
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "name": "华为吧"
+    },
+    "aiqiyi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源"
+    },
+    "dianyingtiantang": {
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂"
+    },
+    "madou": {
+      "api": "https://www.bt4.cc/api.php/provide/vod",
+      "name": "麻豆资源"
+    },
+    "senlin": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
     }
   }
 }
